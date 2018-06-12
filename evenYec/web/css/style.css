@@ -942,7 +942,8 @@ section.portfolio-agileinfo{
 /*-- clients --*/
 .clients-main{
 	padding:5em 0;
-	   background: url(../images/mid2.jpg) no-repeat 0px 0px;
+    background: url(../images/fndo1.png) no-repeat 0px 0px;
+/*    background: url(../images/fndo2.jpg) no-repeat 0px 0px;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
