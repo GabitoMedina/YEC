@@ -75,8 +75,8 @@ body{
 }
 /*-- banner --*/
 .w3-banner{
-/*	background: url(../images/clcly.jpg) no-repeat 0px 0px;*/
-    background: url(../images/banner.png) no-repeat 0px 0px;
+	/*background: url(../images/clcly.jpg) no-repeat 0px 0px;*/
+    background: url(../images/banner.jpg) no-repeat 0px 0px;
     background-size: cover; 
 	-webkit-background-size: cover; 
     -moz-background-size: cover; 
